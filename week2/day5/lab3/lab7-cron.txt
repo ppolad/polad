@@ -1,0 +1,4 @@
+30 2 * * * /home/polad/lab7/scripts/backup.sh --source /home/polad/lab7 --dest /home/polad/lab7-outputs --name lab7 --retention 7 >> /home/polad/lab7-outputs/backup.log 2>&1
+0 * * * * /home/polad/lab7/scripts/log_parse.sh --file /var/log/syslog --type syslog --out /home/polad/lab7-outputs >> /home/polad/lab7-outputs/logparse.log 2>&1
+30 2 * * * /home/polad/lab7/scripts/backup.sh --source /home/polad/lab7 --dest /home/polad/lab7-outputs --name lab7 --retention 7 >> /home/polad/lab7-outputs/backup.log 2>&1
+0 * * * * /home/polad/lab7/scripts/log_parse.sh --file /var/log/syslog --type syslog --out /home/polad/lab7-outputs >> /home/polad/lab7-outputs/logparse.log 2>&1

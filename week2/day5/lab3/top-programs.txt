@@ -1,0 +1,20 @@
+   1044 change
+    756 Daemon
+    373 -
+    331 
+    298 0
+    291 target
+    276 Deactivated
+    182 on
+    169 repeated
+    138 wsl-pro.service
+    117 SRAT
+     90 Registered
+     81 Using
+     72 registering
+     72 hash
+     72 PXM
+     69 Starting
+     69 Scheduled
+     65 dxg
+     56 Exiting

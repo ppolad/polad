@@ -1,0 +1,26 @@
+[2026-02-27_11:34:57] common.sh initialized from polad
+[2026-02-27_11:36:24] Matched files: 0 (dir=/home/polad/lab7/demo pattern=*.log older_than=0)
+[2026-02-27_11:37:52] Backup created and verified: /home/polad/lab7-outputs/lab7-20260227-113752.tgz
+[2026-02-27_11:45:52] common.sh initialized from polad
+[2026-02-27_11:51:42] common.sh initialized from polad
+[2026-02-27_12:07:40] common.sh initialized from polad
+[2026-02-27_12:11:17] common.sh initialized from polad
+[2026-02-27_12:14:04] Archive created: /home/polad/lab7-outputs/archive-20260227_121404.tgz
+[2026-02-27_12:14:59] Archive created: /home/polad/lab7-outputs/archive-20260227_121459.tgz
+[2026-02-27_12:16:10] Archive created: /home/polad/lab7-outputs/archive-20260227_121610.tgz
+[2026-02-27_12:17:14] Archive created: /home/polad/lab7-outputs/archive-20260227_121714.tgz
+[2026-02-27_12:19:44] Archive created: /home/polad/lab7-outputs/archive-20260227_121944.tgz
+[2026-02-27_12:19:58] Backup created and verified: /home/polad/lab7-outputs/lab7-20260227-121958.tgz
+[2026-02-27_12:20:41] Archive created: /home/polad/lab7-outputs/archive-20260227_122041.tgz
+[2026-02-27_12:20:56] Backup created and verified: /home/polad/lab7-outputs/lab7-20260227-122056.tgz
+[2026-03-02_02:30:02] Backup created and verified: /home/polad/lab7-outputs/lab7-20260302-023002.tgz
+[2026-03-02_09:11:18] common.sh initialized from polad
+[2026-03-02_09:15:01] Matched files: 2 (dir=/home/polad/lab7/demo pattern=*.log older_than=0)
+[2026-03-02_09:16:40] common.sh initialized from polad
+[2026-03-02_09:18:39] common.sh initialized from polad
+[2026-03-02_09:19:52] Matched files: 2 (dir=/home/polad/lab7/demo pattern=*.log older_than=0)
+[2026-03-02_09:25:46] Backup created and verified: /home/polad/lab7-outputs/lab7-20260302-092546.tgz
+[2026-03-02_09:25:46] Retention applied for lab7, kept 3
+[2026-03-02_09:28:37] Matched files: 2 (dir=/home/polad/lab7/demo pattern=*.log older_than=0)
+[2026-03-02_09:29:20] Backup created and verified: /home/polad/lab7-outputs/lab7-20260302-092920.tgz
+[2026-03-02_09:29:20] Retention applied for lab7, kept 3
